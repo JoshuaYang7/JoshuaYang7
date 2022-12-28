@@ -1,6 +1,7 @@
 US Army Veteran => Software Engineer
 
 Reach Me At:
+
   [LinkedIn](https://www.linkedin.com/in/joshua-s-yang/)
 
 <hr>
