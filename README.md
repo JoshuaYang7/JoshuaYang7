@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Yang</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👯 I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology. In 2022, I learned **JavaScript, React, C#,** and **SQL**. I also got started with freelancing and am looking for new opportunities!
+- 👯 I am enthusiastic about learning new technology. In 2022, I learned **JavaScript, React, C#,** and **SQL**. I also got started with freelancing and am looking for new opportunities!
 
 - 📫 How to reach me 
   - **joshua.s.yang7@gmail.com**
