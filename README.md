@@ -7,7 +7,7 @@ US Army Veteran => Software Engineer
   <summary>Language Statistics...</summary><br/>
   <p align="center">
   <img
-  src="https://wakatime.com/share/@jyang/0455a9c5-0649-4e10-b4f6-f088839d131b.svg"
+  src="https://wakatime.com/share/@jyang/26779cdc-8dc3-4dcd-b097-52cfd6663fb5.svg"
   alt="JoshuaYang7 WakaTime Stats"
   height="300"
   width="400"
