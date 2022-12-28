@@ -4,7 +4,7 @@
 - 👯 I enjoy contributing to Open Source Projects and am enthusiastic about learning new technology. In 2022, I learned **JavaScript, React, C#,** and **SQL**. I also got started with freelancing and am looking for new opportunities!
 
 - 📫 How to reach me 
-  - **[Email](joshua.s.yang7@gmail.com)**
+  - **joshua.s.yang7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
