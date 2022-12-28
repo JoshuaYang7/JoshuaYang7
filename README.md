@@ -1,5 +1,7 @@
 US Army Veteran => Software Engineer
 
+LinkedIn: https://www.linkedin.com/in/joshua-s-yang/
+
 <hr>
 <details>
   <summary>Language Statistics...</summary><br/>
