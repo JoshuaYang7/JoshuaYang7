@@ -36,15 +36,17 @@
   width="400"
 />
   </p>
-</details>
-</hr>
-
-<p align="center">
+  
+  <p align="center">
   <img
   src="https://media1.giphy.com/media/la8uEME0KVsDDcLbYf/200w.gif?cid=82a1493beko04omus1mvon807nd488blbngufg0xypja5jy3&rid=200w.gif&ct=g"
   height="300"
   width="400"
 />
   </p>
+</details>
+</hr>
+
+
 
 
