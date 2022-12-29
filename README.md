@@ -39,7 +39,7 @@
   
   <p align="center">
   <img
-  src="https://media1.giphy.com/media/la8uEME0KVsDDcLbYf/200w.gif?cid=82a1493beko04omus1mvon807nd488blbngufg0xypja5jy3&rid=200w.gif&ct=g"
+  src="https://media0.giphy.com/media/la8uEME0KVsDDcLbYf/giphy.gif?cid=ecf05e47bhadvutqw910pd6isg48p3rxb4oo9785kimqk0ef&rid=giphy.gif&ct=g"
   height="300"
   width="400"
 />
