@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Yang</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+
+https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif
 
 - 👯 I am enthusiastic about learning new technology. In 2022, I learned **JavaScript, React, C#,** and **SQL**. I also got started with freelancing and am looking for new opportunities!
 
