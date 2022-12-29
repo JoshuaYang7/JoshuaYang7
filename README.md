@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Josh Yang</h1>
 
-https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif
+<p align="center">
+  <img
+  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
+  height="300"
+  width="400"
+/>
+  </p>
+
+
+
 
 - 👯 I am enthusiastic about learning new technology. In 2022, I learned **JavaScript, React, C#,** and **SQL**. I also got started with freelancing and am looking for new opportunities!
 
@@ -22,7 +31,7 @@ https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/
   <p align="center">
   <img
   src="https://wakatime.com/share/@jyang/26779cdc-8dc3-4dcd-b097-52cfd6663fb5.svg"
-  alt="Tico118 WakaTime Stats"
+  alt="jyang WakaTime Stats"
   height="300"
   width="400"
 />
