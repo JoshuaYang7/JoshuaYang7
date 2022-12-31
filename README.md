@@ -11,7 +11,7 @@
 
 
 
-- 👯 I am an United States Army veteran with a passion for Software Development. After my separation from service, I received an Associate's Degree in Business Adminstration/Management. As I was working on my Bachelor's degree Business Data Analytics, I learned how to code on my free time and was selected through a vetting process by Senior Product Managers to work on an minimum viable product (MVP) for MiVet. The MVP is moving in to beta testing so there are more coding freezes and I have completed a lot of big projects. I am looking to explore more opportunities in the tech industry.
+- 👯 As a highly motivated and skilled US Army veteran, I have developed a range of valuable skills and attributes that make me well-suited for a career in the tech industry. My military experience has taught me how to work effectively under pressure, lead and motivate a team, and handle complex tasks with professionalism and efficiency. After completing my military service, I earned an Associate's Degree in Business Administration and Management and am currently pursuing a Bachelor's degree in Business Data Analytics. I have a passion for software development and have taught myself how to code, leading to my selection by senior product managers to work on a minimum viable product (MVP) for MiVet. The MVP is now in beta testing and I have contributed to several large projects, demonstrating my strong problem-solving and communication skills. I am seeking new opportunities to utilize my skills and experience in the tech industry and believe that I would be a valuable asset to any company looking for a dedicated and skilled software developer.
 
 - 📫 How to reach me 
   - **joshua.s.yang7@gmail.com**
